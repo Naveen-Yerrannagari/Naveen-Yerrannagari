@@ -1,18 +1,125 @@
-# 💫 About Me:
-Hi, I'm **Naveen Yerrannagari**! 👋<br><br>🎓 Computer Science and Engineering graduate specializing in Artificial Intelligence.<br><br>💻 Currently working as an **Associate Web Developer Intern at Winway Creators Pvt. Ltd.**, building and enhancing web applications.<br><br>🚀 Passionate about **Full-Stack Development, Artificial Intelligence, Machine Learning, and Automation**.<br><br>🛠️ Experienced with JavaScript, Angular, React.js, TypeScript, Node.js, Python, and MySQL.<br><br>🌱 Currently exploring Full-Stack Development and AI integration to build smarter and more scalable applications.<br><br>📌 I enjoy solving real-world problems, experimenting with new technologies, and transforming ideas into practical solutions.<br><br>🤝 Always open to learning, sharing knowledge, and collaborating on exciting Web Development and AI/ML projects.<br><br>⚡ **Always learning. Always building. Always growing!**
 
+# 👋 Hi, I'm Naveen Yerrannagari!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_naveeen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-yerrannagari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Y_Naveen0911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yerrannagarinaveen09@gmail.com) 
+### 💻 Full-Stack Developer | AI/ML Enthusiast | Problem Solver
 
-# 💻 Tech Stack:
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Naveen-Yerrannagari&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Naveen-Yerrannagari&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Naveen-Yerrannagari&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+I'm a Computer Science and Engineering graduate specializing in Artificial Intelligence, passionate about building meaningful digital solutions.
+
+- 🔭 Currently working as an **Associate Web Developer Intern at Winway Creators Pvt. Ltd.**
+- 🌱 Learning **Angular, TypeScript, Node.js, and AI Integration**
+- 🚀 Interested in **Full-Stack Development, Artificial Intelligence, Machine Learning, and Automation**
+- 👯 Looking to collaborate on **Web Development and AI/ML projects**
+- 💬 Ask me about **JavaScript, Angular, React.js, Node.js, Python, and MySQL**
+- ⚡ Fun fact: I love turning creative ideas into real-world projects!
 
 ---
-[![](https://komarev.com/ghpvc/?username=Naveen-Yerrannagari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend Development
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+
+### 🐍 Programming & Database
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🥬 Vegetable Price Prediction
+
+A Machine Learning-based project designed to predict vegetable prices and help farmers, distributors, and retailers make informed decisions.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Naveen-Yerrannagari/Vegetable-Price-Prediction)
+
+### 💰 Employee Salary Prediction
+
+A Machine Learning classification project that predicts whether an individual's salary exceeds $50K based on employee attributes.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Naveen-Yerrannagari/Employee-Salary-Prediction-)
+
+### 🌐 Cisco NetSense – Automated Network
+
+An automated network configuration project involving topology generation, configuration anomaly detection, and network traffic analysis.
+
+**Technologies:** Python, NetworkX, Matplotlib
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Naveen-Yerrannagari/Cisco-NetSense-Automated-Network)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Yerrannagari&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Yerrannagari&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Yerrannagari&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen-yerrannagari">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mr_naveeen">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/Y_Naveen0911">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:yerrannagarinaveen09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+<p align="center">
+  <i>"Always learning. Always building. Always growing."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naveen-Yerrannagari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
