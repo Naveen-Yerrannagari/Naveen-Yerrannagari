@@ -57,21 +57,54 @@ I'm a **Computer Science and Engineering graduate specializing in Artificial Int
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**🌐 Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" /><br/><br/>
-
-**⚙️ Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,npm,python,mysql" /><br/><br/>
-
-**🤖 AI & Machine Learning**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas" /><br/><br/>
-
-**🔧 Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,anaconda,apache,vscode" />
-
-</div>
+<table>
+  <tr>
+    <td width="22%" valign="middle"><b>🌐 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🐍 Languages & Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🤖 AI & Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🔧 Tools & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
